@@ -1,0 +1,16 @@
+-1 git status // "This command shows the current status"
+
+-2 git add . // "This command prepares all files for commit"
+
+-3 git add <name_file> // "This command only prepares the desired file for commit"
+
+-4 git commit -m "text for commit" // "With the commit command, the files are ready for posting along with the desired text"
+
+-5 git push -u mm_origin main // "The Posh command is used to push files to the GitHub repository. The name of the main branch"
+
+
+"""
+  I will write the rest of the instructions and explanations that are very important in the future...
+  this is enough for me...
+  I'm not bored anymore...
+"""
